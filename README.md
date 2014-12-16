@@ -1,0 +1,1 @@
+A simple online tool designed to efficiently help me and my friends suck at music in absence of physical copies of whatever music we wanted to practice. To make audio files automatically show up and load up for reproduction, create a folder named "mp3" alongside the index.php that is being run at serverside and put media in it.
